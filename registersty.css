@@ -1,0 +1,74 @@
+body{
+    background-image: url(graphics/courses-bg.jpg);
+}
+.wrapper {
+    
+    position: relative;
+      left:1px;
+      top: 10px;
+      background-color: #fff;
+      width:400px;
+      padding: 20px;
+      margin: 100px auto 0;
+      border-top: 5px solid #f5ba1a;
+      box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+      right:300px;
+}
+.wrapper h2{
+    font-size: 24px;
+    line-height: 24px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.input-name{
+    width: 90%;
+    position: relative;
+    margin: 20px auto;
+    
+}
+.radio{
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+  .button{
+    background:#f5ba1a;
+    height: 35px;
+    line-height: 35px;
+    width: 100%;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    color: #fff;
+    font-size: 18px;
+    margin-bottom: 10px;
+    
+  }
+  .button:hover{
+    background-color: #f8c22e;
+}
+.button:hover{
+    background-color: #f8c22e;
+}
+@media (max-width: 480px) {
+    .wrapper{
+        width: 100%;
+    }
+    .input-name{
+        margin-bottom: -10px;
+    }
+    .name{
+        width: 100%;
+        padding:8px 0 8px 40px;
+        margin-bottom: 10px;
+    }
+    .input-name span{
+        padding: 0;
+        margin:0;
+    }
+}
