@@ -13,3 +13,16 @@ Film and TV Series Review System is entertainment that aims to rate and review m
 
 5. open link localhost/phpmyadmin
 
+## Screenshort
+
+### Home
+![1](https://user-images.githubusercontent.com/91023534/154680314-3647077e-91f5-493d-8a9d-93370e470af8.png)
+
+### Movies Category
+![2](https://user-images.githubusercontent.com/91023534/154680432-45c832ec-ec6e-4ac9-b0ac-ceedd0416e59.png)
+
+### Movies Details
+![3](https://user-images.githubusercontent.com/91023534/154680494-ecd0936a-dd8e-42f1-8361-54bc1112349e.png)
+
+### Search 
+![4](https://user-images.githubusercontent.com/91023534/154680532-6996aafb-5212-47c7-833b-bb1cd671a7e1.png)
